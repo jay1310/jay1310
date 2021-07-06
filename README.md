@@ -2,7 +2,8 @@
 
 ##### I am a 3rd year UG student of Computer Science and Engineering at Bakhtiyarpur College Of Engineering. I like problem solving and learning new technologies. I'd love to combine my passion for learning new technologies with my full-stack developer skills to continue building useful projects.
 
-- 🌱 I’m currently learning ### ReactJs, MongoDB, Express and Node (MERN STACK).
+- 🌱 I’m currently learning 
+- ### ReactJs, MongoDB, Express and Node (MERN STACK).
 
 - 🤔 I’m looking for fullstack development internship.
 
