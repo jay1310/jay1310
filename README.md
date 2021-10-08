@@ -11,4 +11,4 @@
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-success.svg?style=for-the-badge&logo=hackerearth)](https://www.hackerearth.com/@jay741)
 
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhishekkumar08" width=990 height=450>  
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=jay1310" width=990 height=450>  
